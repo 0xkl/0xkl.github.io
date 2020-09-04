@@ -1,3 +1,2 @@
-![htb](https://www.hackthebox.eu/images/logo600.png) 
-# This is Hack the box
-
+![htb](./images/htb.png)
+# This is hack the box

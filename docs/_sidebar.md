@@ -1,16 +1,10 @@
 <!-- docs/_sidebar.md -->
 
+- [家](/)
+- [Hack the box](/HTB/index)
+- [教程](/tutorials/index)
+- [Linux命令](/linuxcommand/index)
+- [关于](/about/index)
 
-* [HOME](./)
-* [Hack the box](./HTB/index)
-  * [Postman](./HTB/postman/index)
-  * [Forest](./HTB/forest/index)
-* [Tutorials](./tutorials/index)
-  * [Tomcat](./tutorials/tomcat/index)
-  * [Cloud](./tutorials/cloud/index)
-  * [Java](./tutorials/java/index)
-
-* [About](./about/index)
-
-* [Contact](./contact/index)
+- [联系我们](/contact/index)
 

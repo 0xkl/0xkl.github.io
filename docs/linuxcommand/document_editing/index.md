@@ -20,7 +20,7 @@
 </style>
 <table  id="customers">
 <tr>
-	<td width="220"><a href="/#/linuxcommand/document_editing/cat">cat</a></td>
+	<td width="220"><a href="./#/linuxcommand/document_editing/cat">cat</a></td>
 	<td width="220"><a href="/#/linuxcommand/document_editing/col">col</a></td>
 	<td width="220"><a href="/#/linuxcommand/document_editing/colrm">colrm</a></td>
 	<td width="220"><a href="/#/linuxcommand/document_editing/comm">comm</a></td>

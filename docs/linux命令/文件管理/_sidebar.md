@@ -5,7 +5,7 @@
 * [教程](/tutorials/index)
 * [Linux命令](/linuxcommand/index)
   * [文件管理](/linuxcommand/file_management/index)
-    * [ls命令](/linuxcommand/file_management/ls)
+    * [ls命令](./linuxcommand/file_management/ls)
     * [chattr命令](/linuxcommand/file_management/chattr)
     * [chgrp命令](/linuxcommand/file_management/chgrp)
     * [chomd命令](/linuxcommand/file_management/chomd) 

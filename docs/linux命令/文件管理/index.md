@@ -20,7 +20,7 @@
 </style>
 <table  id="customers">
 <tr>
-	<td width="220"><a href="/#/linuxcommand/file_management/ls">ls</a></td>
+	<td width="220"><a href="./#/linuxcommand/file_management/ls">ls</a></td>
 	<td width="220"><a href="/#/linuxcommand/file_management/chattr">chattr</td>
 	<td width="220"><a href="/#/linuxcommand/file_management/chgrp">chgrp</a></td>
 	<td width="220"><a href="/#/linuxcommand/file_management/chmod">chomd</a></td>

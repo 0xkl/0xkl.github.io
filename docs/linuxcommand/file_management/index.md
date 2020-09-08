@@ -1,4 +1,4 @@
-# [设备管理](/linuxcommand/equipment_management/index)
+# [文件管理](/linuxcommand/file_management/index)
 
 <style type="text/css">
 #customers{
@@ -20,15 +20,15 @@
 </style>
 <table  id="customers">
 <tr>
-	<td width="220"><a href="./#/linuxcommand/management/ls">ls</a></td>
-	<td width="220"><a href="./#/linuxcommand/management/chattr">chattr</a></td>
-	<td width="220"><a href="./#/linuxcommand/management/chgrp">chgrp</a></td>
-	<td width="220"><a href="./#/linuxcommand/management/chmod">chmod</a></td>
+	<td width="220"><a href="./#/linuxcommand/file_management/ls">ls</a></td>
+	<td width="220"><a href="./#/linuxcommand/file_management/chattr">chattr</a></td>
+	<td width="220"><a href="./#/linuxcommand/file_management/chgrp">chgrp</a></td>
+	<td width="220"><a href="./#/linuxcommand/file_management/chmod">chmod</a></td>
 </tr>
 <tr class="alt">
-	<td><a href="./#/linuxcommand/management/chown">chown</a></td>
-	<td><a href="./#/linuxcommand/management/cksum">cksum</a></td>
-	<td><a href="./#/linuxcommand/management/cmp">cmp</a></td>
-	<td><a href="./#/linuxcommand/management/diff">diff</a></td>
+	<td><a href="./#/linuxcommand/file_management/chown">chown</a></td>
+	<td><a href="./#/linuxcommand/file_management/cksum">cksum</a></td>
+	<td><a href="./#/linuxcommand/file_management/cmp">cmp</a></td>
+	<td><a href="./#/linuxcommand/file_management/diff">diff</a></td>
 </tr>
 </table>

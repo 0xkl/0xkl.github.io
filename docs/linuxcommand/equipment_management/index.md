@@ -20,15 +20,15 @@
 </style>
 <table  id="customers">
 <tr>
-	<td width="220"><a href="/#/linuxcommand/equipment_management/setleds">setleds</a></td>
-	<td width="220"><a href="/#/linuxcommand/equipment_management/loadkeys">loadkeys</a></td>
-	<td width="220"><a href="/#/linuxcommand/equipment_management/rdev">rdev</a></td>
-	<td width="220"><a href="/#/linuxcommand/equipment_management/dumpkeys">dumpkeys</a></td>
+	<td width="220"><a href="./#/linuxcommand/equipment_management/setleds">setleds</a></td>
+	<td width="220"><a href="./#/linuxcommand/equipment_management/loadkeys">loadkeys</a></td>
+	<td width="220"><a href="./#/linuxcommand/equipment_management/rdev">rdev</a></td>
+	<td width="220"><a href="./#/linuxcommand/equipment_management/dumpkeys">dumpkeys</a></td>
 </tr>
 <tr class="alt">
-	<td><a href="/#/linuxcommand/equipment_management/MAKEDEV">MAKEDEV</a></td>
-	<td><a href="/#/linuxcommand/equipment_management/poweroff">poweroff</a></td>
-	<td><a href="/#/linuxcommand/equipment_management"></a></td>
-	<td><a href="/#/linuxcommand/equipment_management"></a></td>
+	<td><a href="./#/linuxcommand/equipment_management/MAKEDEV">MAKEDEV</a></td>
+	<td><a href="./#/linuxcommand/equipment_management/poweroff">poweroff</a></td>
+	<td><a href="./#/linuxcommand/equipment_management"></a></td>
+	<td><a href="./#/linuxcommand/equipment_management"></a></td>
 </tr>
 </table>

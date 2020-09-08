@@ -20,16 +20,16 @@
 </style>
 <table  id="customers">
 <tr>
-	<td width="220"><a href="/#/linuxcommand/backup_compression/ar">ar</a></td>
-	<td width="220"><a href="/#/linuxcommand/backup_compression/bunzip2">bunzip2</a></td>
-	<td width="220"><a href="/#/linuxcommand/backup_compression/bzip2">bzip2</a></td>
-	<td width="220"><a href="/#/linuxcommand/backip_compression/bzip2recover">bzip2recover</a></td>
+	<td width="220"><a href="./#/linuxcommand/backup_compression/ar">ar</a></td>
+	<td width="220"><a href="./#/linuxcommand/backup_compression/bunzip2">bunzip2</a></td>
+	<td width="220"><a href="./#/linuxcommand/backup_compression/bzip2">bzip2</a></td>
+	<td width="220"><a href="./#/linuxcommand/backip_compression/bzip2recover">bzip2recover</a></td>
 </tr>
 <tr class="alt">
-	<td><a href="/#/linuxcommand/backup_compression/gunzip">gunzip</a></td>
-	<td><a href="/#/linuxcommand/backup_compression/unarj">unarj</a></td>
-	<td><a href="/#/linuxcommand/backup_compression/compress">compress</a></td>
-	<td><a href="/#/linuxcommand/backup_compression/cpio">cpio</a></td>
+	<td><a href="./#/linuxcommand/backup_compression/gunzip">gunzip</a></td>
+	<td><a href="./#/linuxcommand/backup_compression/unarj">unarj</a></td>
+	<td><a href="./#/linuxcommand/backup_compression/compress">compress</a></td>
+	<td><a href="./#/linuxcommand/backup_compression/cpio">cpio</a></td>
 </tr>
 <tr>
 	<td><a href="/#/linuxcommand/backup_compression/dump">dump</a></td>

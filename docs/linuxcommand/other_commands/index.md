@@ -20,15 +20,15 @@
 </style>
 <table  id="customers">
 <tr>
-	<td width="220"><a href="/#/linuxcommand/other_commands/bc">bc</a></td>
-	<td width="220"><a href="/#/linuxcommand/other_commands/tail">tail</a></td>
-	<td width="220"><a href="/#/linuxcommand/other_commands/head">head</a></td>
-	<td width="220"><a href="/#/linuxcommand/other_commands/xargs">xargs</a></td>
+	<td width="220"><a href="./#/linuxcommand/other_commands/bc">bc</a></td>
+	<td width="220"><a href="./#/linuxcommand/other_commands/tail">tail</a></td>
+	<td width="220"><a href="./#/linuxcommand/other_commands/head">head</a></td>
+	<td width="220"><a href="./#/linuxcommand/other_commands/xargs">xargs</a></td>
 </tr>
 <tr class="alt">
-	<td><a href="/#/linuxcommand/other_commands/ip">ip</a></td>
-	<td><a href="/#/linuxcommand/other_commands/nohup">nohup</a></td>
-	<td><a href="/#/linuxcommand/other_commands/killall">killall</a></td>
-	<td><a href="/#/linuxcommand/other_commands/pkill">pkill</a></td>
+	<td><a href="./#/linuxcommand/other_commands/ip">ip</a></td>
+	<td><a href="./#/linuxcommand/other_commands/nohup">nohup</a></td>
+	<td><a href="./#/linuxcommand/other_commands/killall">killall</a></td>
+	<td><a href="./#/linuxcommand/other_commands/pkill">pkill</a></td>
 </tr>
 </table>

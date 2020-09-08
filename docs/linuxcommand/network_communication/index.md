@@ -20,15 +20,15 @@
 </style>
 <table  id="customers">
 <tr>
-	<td width="220"><a href="/#/linuxcommand/network_communication/apachectl">apachectl</a></td>
-	<td width="220"><a href="/#/linuxcommand/network_communication/arpwatch">arpwatch</a></td>
-	<td width="220"><a href="/#/linuxcommand/network_communication/dip">dip</a></td>
-	<td width="220"><a href="/#/linuxcommand/network_communication/getty">getty</a></td>
+	<td width="220"><a href="./#/linuxcommand/network_communication/apachectl">apachectl</a></td>
+	<td width="220"><a href="./#/linuxcommand/network_communication/arpwatch">arpwatch</a></td>
+	<td width="220"><a href="./#/linuxcommand/network_communication/dip">dip</a></td>
+	<td width="220"><a href="./#/linuxcommand/network_communication/getty">getty</a></td>
 </tr>
 <tr class="alt">
-	<td><a href="/#/linuxcommand/network_communication/mingetty">mingetty</a></td>
-	<td><a href="/#/linuxcommand/network_communication/uux">uux</a></td>
-	<td><a href="/#/linuxcommand/network_communication/telnet">telnet</a></td>
-	<td><a href="/#/linuxcommand/network_communication/uulog">uulog</a></td>
+	<td><a href="./#/linuxcommand/network_communication/mingetty">mingetty</a></td>
+	<td><a href="./#/linuxcommand/network_communication/uux">uux</a></td>
+	<td><a href="./#/linuxcommand/network_communication/telnet">telnet</a></td>
+	<td><a href="./#/linuxcommand/network_communication/uulog">uulog</a></td>
 </tr>
 </table>

@@ -20,15 +20,15 @@
 </style>
 <table  id="customers">
 <tr>
-	<td width="220"><a href="/#/linuxcommand/disk_maintenance/badblocks">badblocks</a></td>
-	<td width="220"><a href="/#/linuxcommand/disk_maintenance/cfdisk">cfdisk</a></td>
-	<td width="220"><a href="/#/linuxcommand/disk_maintenance/dd">dd</a></td>
-	<td width="220"><a href="/#/linuxcommand/disk_maintenance/e2fsck">e2fsck</a></td>
+	<td width="220"><a href="./#/linuxcommand/disk_maintenance/badblocks">badblocks</a></td>
+	<td width="220"><a href="./#/linuxcommand/disk_maintenance/cfdisk">cfdisk</a></td>
+	<td width="220"><a href="./#/linuxcommand/disk_maintenance/dd">dd</a></td>
+	<td width="220"><a href="./#/linuxcommand/disk_maintenance/e2fsck">e2fsck</a></td>
 </tr>
 <tr class="alt">
-	<td><a href="/#/linuxcommand/disk_maintenance/ext2ed">ext2ed</a></td>
-	<td><a href="/#/linuxcommand/disk_maintenance/fsck">fsck</a></td>
-	<td><a href="/#/linuxcommand/disk_maintenance/fsck.minix">fsck.minix</a></td>
-	<td><a href="/#/linuxcommand/disk_maintenance/fsconf">fsconf</a></td>
+	<td><a href="./#/linuxcommand/disk_maintenance/ext2ed">ext2ed</a></td>
+	<td><a href="./#/linuxcommand/disk_maintenance/fsck">fsck</a></td>
+	<td><a href="./#/linuxcommand/disk_maintenance/fsck.minix">fsck.minix</a></td>
+	<td><a href="./#/linuxcommand/disk_maintenance/fsconf">fsconf</a></td>
 </tr>
 </table>

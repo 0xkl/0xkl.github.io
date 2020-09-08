@@ -20,15 +20,15 @@
 </style>
 <table  id="customers">
 <tr>
-	<td width="220"><a href="/#/linuxcommand/document_editing/cat">cat</a></td>
-	<td width="220"><a href="/#/linuxcommand/document_editing/col">col</a></td>
-	<td width="220"><a href="/#/linuxcommand/document_editing/colrm">colrm</a></td>
-	<td width="220"><a href="/#/linuxcommand/document_editing/comm">comm</a></td>
+	<td width="220"><a href="./#/linuxcommand/document_editing/cat">cat</a></td>
+	<td width="220"><a href="./#/linuxcommand/document_editing/col">col</a></td>
+	<td width="220"><a href="./#/linuxcommand/document_editing/colrm">colrm</a></td>
+	<td width="220"><a href="./#/linuxcommand/document_editing/comm">comm</a></td>
 </tr>
 <tr class="alt">
-	<td><a href="/#/linuxcommand/document_editing/csplit">csplit</a></td>
-	<td><a href="/#/linuxcommand/document_editing/ed">ed</a></td>
-	<td><a href="/#/linuxcommand/document_editing/egrep">egrep</a></td>
-	<td><a href="/#/linuxcommand/document_editing/ex">ex</td>
+	<td><a href="./#/linuxcommand/document_editing/csplit">csplit</a></td>
+	<td><a href="./#/linuxcommand/document_editing/ed">ed</a></td>
+	<td><a href="./#/linuxcommand/document_editing/egrep">egrep</a></td>
+	<td><a href="./#/linuxcommand/document_editing/ex">ex</td>
 </tr>
 </table>

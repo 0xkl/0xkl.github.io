@@ -20,15 +20,15 @@
 </style>
 <table  id="customers">
 <tr>
-	<td width="220"><a href="/#/linuxcommand/system_settings/reset">reset</a></td>
-	<td width="220"><a href="/#/linuxcommand/system_settings/clear">clear</a></td>
-	<td width="220"><a href="/#/linuxcommand/system_settings/alias">alias</a></td>
-	<td width="220"><a href="/#/linuxcommand/system_settings/dircolors">dircolors</a></td>
+	<td width="220"><a href="./#/linuxcommand/system_settings/reset">reset</a></td>
+	<td width="220"><a href="./#/linuxcommand/system_settings/clear">clear</a></td>
+	<td width="220"><a href="./#/linuxcommand/system_settings/alias">alias</a></td>
+	<td width="220"><a href="./#/linuxcommand/system_settings/dircolors">dircolors</a></td>
 </tr>
 <tr class="alt">
-	<td><a href="/#/linuxcommand/system_settings/aumix">aumix</a></td>
-	<td><a href="/#/linuxcommand/system_settings/bind">bind</a></td>
-	<td><a href="/#/linuxcommand/system_settings/chroot">chroot</a></td>
-	<td><a href="/#/linuxcommand/system_settings/clock">clock</a></td>
+	<td><a href="./#/linuxcommand/system_settings/aumix">aumix</a></td>
+	<td><a href="./#/linuxcommand/system_settings/bind">bind</a></td>
+	<td><a href="./#/linuxcommand/system_settings/chroot">chroot</a></td>
+	<td><a href="./#/linuxcommand/system_settings/clock">clock</a></td>
 </tr>
 </table>

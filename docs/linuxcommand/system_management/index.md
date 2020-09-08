@@ -20,15 +20,15 @@
 </style>
 <table  id="customers">
 <tr>
-	<td width="220"><a href="/#/linuxcommand/system_management/adduser">adduser</a></td>
-	<td width="220"><a href="/#/linuxcommand/system_management/chfn">chfn</a></td>
-	<td width="220"><a href="/#/linuxcommand/system_management/useradd">useradd</a></td>
-	<td width="220"><a href="/#/linuxcommand/system_management/date">date</a></td>
+	<td width="220"><a href="./#/linuxcommand/system_management/adduser">adduser</a></td>
+	<td width="220"><a href="./#/linuxcommand/system_management/chfn">chfn</a></td>
+	<td width="220"><a href="./#/linuxcommand/system_management/useradd">useradd</a></td>
+	<td width="220"><a href="./#/linuxcommand/system_management/date">date</a></td>
 </tr>
 <tr class="alt">
-	<td><a href="/#/linuxcommand/system_management/exit">exit</a></td>
-	<td><a href="/#/linuxcommand/system_management/finger">finger</a></td>
-	<td><a href="/#/linuxcommand/system_management/fwhios">fwhios</a></td>
-	<td><a href="/#/linuxcommand/system_management/sleep">sleep</a></td>
+	<td><a href="./#/linuxcommand/system_management/exit">exit</a></td>
+	<td><a href="./#/linuxcommand/system_management/finger">finger</a></td>
+	<td><a href="./#/linuxcommand/system_management/fwhios">fwhios</a></td>
+	<td><a href="./#/linuxcommand/system_management/sleep">sleep</a></td>
 </tr>
 </table>

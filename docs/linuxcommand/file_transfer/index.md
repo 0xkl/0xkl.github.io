@@ -20,22 +20,22 @@
 </style>
 <table  id="customers">
 <tr>
-	<td width="220"><a href="/#/linuxcommand/file_transfer/lprm">lprm</a></td>
-	<td width="220"><a href="/#/linuxcommand/file_transfer/lpr">lpr</a></td>
-	<td width="220"><a href="/#/linuxcommand/file_transfer/lpq">lpq</a></td>
-	<td width="220"><a href="/#/linuxcommand/file_transfer/lpd">lpd</a></td>
+	<td width="220"><a href="./#/linuxcommand/file_transfer/lprm">lprm</a></td>
+	<td width="220"><a href="./#/linuxcommand/file_transfer/lpr">lpr</a></td>
+	<td width="220"><a href="./#/linuxcommand/file_transfer/lpq">lpq</a></td>
+	<td width="220"><a href="./#/linuxcommand/file_transfer/lpd">lpd</a></td>
 </tr>
 <tr class="alt">
-	<td><a href="/#/linuxcommand/file_transfer/bye">bye</a></td>
-	<td><a href="/#/linuxcommand/file_transfer/ftp">ftp</a></td>
-	<td><a href="/#/linuxcommand/file_transfer/uuto">uuto</a></td>
-	<td><a href="/#/linuxcommand/file_transfer/uupick">uupick</a></td>
+	<td><a href="./#/linuxcommand/file_transfer/bye">bye</a></td>
+	<td><a href="./#/linuxcommand/file_transfer/ftp">ftp</a></td>
+	<td><a href="./#/linuxcommand/file_transfer/uuto">uuto</a></td>
+	<td><a href="./#/linuxcommand/file_transfer/uupick">uupick</a></td>
 </tr>
 <tr>
-	<td><a href="/#/linuxcommand/file_transfer/uucp">uucp</a></td>
-	<td><a href="/#/linuxcommand/file_transfer/uucico">uucico</a></td>
-	<td><a href="/#/linuxcommand/file_transfer/tftp">tftp</a></td>
-	<td><a href="/#/linuxcommand/file_transfer/ncftp">ncftp</a></td>
+	<td><a href="./#/linuxcommand/file_transfer/uucp">uucp</a></td>
+	<td><a href="./#/linuxcommand/file_transfer/uucico">uucico</a></td>
+	<td><a href="./#/linuxcommand/file_transfer/tftp">tftp</a></td>
+	<td><a href="./#/linuxcommand/file_transfer/ncftp">ncftp</a></td>
 </tr>
 <tr class="alt">
 	<td><a href="/#/linuxcommand/file_transfer/ftpshut">ftpshut</a></td>

@@ -21,9 +21,15 @@
 <table  id="customers">
 <tr>
 	<td width="220"><a href="./#/linuxcommand/document_editing/cat">cat</a></td>
+<<<<<<< HEAD
 	<td width="220"><a href="./#/linuxcommand/document_editing/col">col</a></td>
 	<td width="220"><a href="./#/linuxcommand/document_editing/colrm">colrm</a></td>
 	<td width="220"><a href="./#/linuxcommand/document_editing/comm">comm</a></td>
+=======
+	<td width="220"><a href="/#/linuxcommand/document_editing/col">col</a></td>
+	<td width="220"><a href="/#/linuxcommand/document_editing/colrm">colrm</a></td>
+	<td width="220"><a href="/#/linuxcommand/document_editing/comm">comm</a></td>
+>>>>>>> 254105cf55329965422042ef6f2fe008d15fdbea
 </tr>
 <tr class="alt">
 	<td><a href="./#/linuxcommand/document_editing/csplit">csplit</a></td>

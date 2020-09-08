@@ -21,9 +21,15 @@
 <table  id="customers">
 <tr>
 	<td width="220"><a href="./#/linuxcommand/file_management/ls">ls</a></td>
+<<<<<<< HEAD:docs/linuxcommand/file_management/index.md
 	<td width="220"><a href="./#/linuxcommand/file_management/chattr">chattr</td>
 	<td width="220"><a href="./#/linuxcommand/file_management/chgrp">chgrp</a></td>
 	<td width="220"><a href="./#/linuxcommand/file_management/chmod">chomd</a></td>
+=======
+	<td width="220"><a href="/#/linuxcommand/file_management/chattr">chattr</td>
+	<td width="220"><a href="/#/linuxcommand/file_management/chgrp">chgrp</a></td>
+	<td width="220"><a href="/#/linuxcommand/file_management/chmod">chomd</a></td>
+>>>>>>> 254105cf55329965422042ef6f2fe008d15fdbea:docs/linux命令/文件管理/index.md
 </tr>
 <tr class="alt">
 	<td><a href="./#/linuxcommand/file_management/chown">chown</a></td>

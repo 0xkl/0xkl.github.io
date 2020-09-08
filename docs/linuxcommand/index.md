@@ -20,10 +20,10 @@
 </style>
 <table  id="customers">
 <tr>
-	<td width="220"><a href=""></a></td>
-	<td width="220"><a href=""></a></td>
-	<td width="220"><a href=""></a></td>
-	<td width="220"><a href=""></a></td>
+	<td width="220">1<a href=""></a></td>
+	<td width="220">2<a href=""></a></td>
+	<td width="220">3<a href=""></a></td>
+	<td width="220">4<a href=""></a></td>
 </tr>
 <tr class="alt">
 	<td><a href=""></a></td>

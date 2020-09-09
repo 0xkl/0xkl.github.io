@@ -32,21 +32,21 @@
 	<td><a href="./#/linuxcommand/backup_compression/cpio">cpio</a></td>
 </tr>
 <tr>
-	<td><a href="/#/linuxcommand/backup_compression/dump">dump</a></td>
-	<td><a href="/#/linuxcommand/backup_compression/uuencode">uuencode</a></td>
-	<td><a href="/#/linuxcommand/backup_compression/uudecode">uudecode</a></td>
-	<td><a href="/#/linuxcommand/backup_compression/gzip">gzip</a></td>
+	<td><a href="./#/linuxcommand/backup_compression/dump">dump</a></td>
+	<td><a href="./#/linuxcommand/backup_compression/uuencode">uuencode</a></td>
+	<td><a href="./#/linuxcommand/backup_compression/uudecode">uudecode</a></td>
+	<td><a href="./#/linuxcommand/backup_compression/gzip">gzip</a></td>
 </tr>
 <tr class="alt">
-	<td><a href="/#/linuxcommand/backup_compression/lha">lha</a></td>
-	<td><a href="/#/linuxcommand/backup_compression/restore">restore</a></td>
-	<td><a href="/#/linuxcommand/backup_compression/tar">tar</a></td>
-	<td><a href="/#/linuxcommand/backup_compression/gzexe">gzexe</a></td>
+	<td><a href="./#/linuxcommand/backup_compression/lha">lha</a></td>
+	<td><a href="./#/linuxcommand/backup_compression/restore">restore</a></td>
+	<td><a href="./#/linuxcommand/backup_compression/tar">tar</a></td>
+	<td><a href="./#/linuxcommand/backup_compression/gzexe">gzexe</a></td>
 </tr>
 <tr>
-	<td><a href="/#/linuxcommand/backup_compression/unzip">unzip</a></td>
-	<td><a href="/#/linuxcommand/backup_compression/zip">zip</a></td>
-	<td><a href="/#/linuxcommand/backup_compression/zipinfo">zipinfo</a></td>
-	<td><a href="/#/linuxcommand/backup_compression/"></a></td>
+	<td><a href="./#/linuxcommand/backup_compression/unzip">unzip</a></td>
+	<td><a href="./#/linuxcommand/backup_compression/zip">zip</a></td>
+	<td><a href="./#/linuxcommand/backup_compression/zipinfo">zipinfo</a></td>
+	<td><a href="./#/linuxcommand/backup_compression/"></a></td>
 </tr>
 </table>

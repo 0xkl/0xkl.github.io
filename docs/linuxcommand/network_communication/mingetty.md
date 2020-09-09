@@ -1,0 +1,1 @@
+# mingetty 命令

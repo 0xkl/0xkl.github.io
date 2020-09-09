@@ -38,9 +38,9 @@
 	<td><a href="./#/linuxcommand/file_transfer/ncftp">ncftp</a></td>
 </tr>
 <tr class="alt">
-	<td><a href="/#/linuxcommand/file_transfer/ftpshut">ftpshut</a></td>
-	<td><a href="/#/linuxcommand/file_transfer/ftpwho">ftpwho</a></td>
-	<td><a href="/#/linuxcommand/file_transfer/ftpcount">ftpcount</a></td>	
+	<td><a href="./#/linuxcommand/file_transfer/ftpshut">ftpshut</a></td>
+	<td><a href="./#/linuxcommand/file_transfer/ftpwho">ftpwho</a></td>
+	<td><a href="./#/linuxcommand/file_transfer/ftpcount">ftpcount</a></td>	
 	<td></td>
 </tr>
 </table>

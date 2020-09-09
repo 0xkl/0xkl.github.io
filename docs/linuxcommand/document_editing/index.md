@@ -24,9 +24,6 @@
 	<td width="220"><a href="./#/linuxcommand/document_editing/col">col</a></td>
 	<td width="220"><a href="./#/linuxcommand/document_editing/colrm">colrm</a></td>
 	<td width="220"><a href="./#/linuxcommand/document_editing/comm">comm</a></td>
-	<td width="220"><a href="/#/linuxcommand/document_editing/col">col</a></td>
-	<td width="220"><a href="/#/linuxcommand/document_editing/colrm">colrm</a></td>
-	<td width="220"><a href="/#/linuxcommand/document_editing/comm">comm</a></td>
 </tr>
 <tr class="alt">
 	<td><a href="./#/linuxcommand/document_editing/csplit">csplit</a></td>

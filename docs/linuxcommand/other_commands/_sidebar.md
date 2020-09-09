@@ -15,7 +15,15 @@
   * [备份压缩](/linuxcommand/backup_compression/index)
   * [设备管理](/linuxcommand/equipment_management/index)
   * [其他命令](/linuxcommand/other_commands/index)
-* [关于](./about/index)
+    * [bc 命令](/linuxcommand/other_commands/bc)
+    * [tail 命令](/linuxcommand/other_commands/tail)
+    * [head 命令](/linuxcommand/other_commands/head)
+    * [xargs 命令](/linuxcommand/other_commands/xargs)
+    * [ip 命令](/linuxcommand/other_commands/ip)
+    * [nohup 命令](/linuxcommand/other_commands/nohup)
+    * [killall 命令](/linuxcommand/other_commands/killall)
+    * [pkill 命令](/linuxcommand/other_commands/pkill)
+* [关于](/about/index)
 
-* [联系我们](./contact/index)
+* [联系我们](/contact/index)
 

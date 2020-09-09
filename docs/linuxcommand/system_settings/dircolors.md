@@ -1,0 +1,1 @@
+# dircolors 命令

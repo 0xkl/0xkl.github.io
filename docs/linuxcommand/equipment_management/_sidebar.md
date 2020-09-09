@@ -14,6 +14,12 @@
   * [系统设置](/linuxcommand/system_settings/index)
   * [备份压缩](/linuxcommand/backup_compression/index)
   * [设备管理](/linuxcommand/equipment_management/index)
+    * [setleds 命令](/linuxcommand/equipment_management/setleds)
+    * [loadkeys 命令](/linuxcommand/equipment_management/loadkeys)
+    * [rdev 命令](/linuxcommand/equipment_management/rdev)
+    * [dumpkeys 命令](/linuxcommand/equipment_management/dumpkeys)
+    * [MAKEDEV 命令](/linuxcommand/equipment_management/MAKEDEV)
+    * [poweroff 命令](/linuxcommand/equipment_management/poweroff)
   * [其他命令](/linuxcommand/other_commands/index)
 * [关于](./about/index)
 

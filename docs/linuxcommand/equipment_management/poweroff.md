@@ -1,0 +1,1 @@
+# poweroff 命令

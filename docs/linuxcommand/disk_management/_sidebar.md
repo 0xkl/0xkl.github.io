@@ -15,7 +15,7 @@
     * [edquota 命令](/linuxcommand/file_transfer/edquota)
     * [eject 命令](/linuxcommand/file_transfer/eject)
     * [mcd 命令](/linuxcommand/file_transfer/mcd)
-    * [mdeltree](/linuxcommand/file_transfer/mdeltree)
+    * [mdeltree 命令](/linuxcommand/file_transfer/mdeltree)
   * [磁盘维护](/linuxcommand/disk_maintenance/index)
   * [网络通讯](/linuxcommand/network_communication/index)
   * [系统管理](/linuxcommand/system_management/index)

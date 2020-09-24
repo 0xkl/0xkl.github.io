@@ -108,7 +108,7 @@
 </tr>
 </table>
 
-# [网络通讯])(/linuxcommand/)
+# [网络通讯](/linuxcommand/network_communication/index)
 <table  id="customers">
 <tr>
 	<td width="220"><a href="./#/linuxcommand/network_communication/apachectl">apachectl</a></td>

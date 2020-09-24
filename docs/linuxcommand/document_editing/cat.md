@@ -13,3 +13,30 @@
 ```bash
 cat [选项]... [参数]...
 ```
+
+### 选项
+```
+-n, -number		从1开始对所有输出的行数编号
+-b, --number-nonblank	和-n相似，只不过对于空白行不进行编号
+-s, --squeeze-blank	当遇到有连续两行以上的空白行，就代换成一行的空白行
+-A			显示不可以打印字符，行尾显示"$"
+-e			等价于"-vE"选项
+-t			等价于"-vT"选项
+-E, --show-ends		在每行末尾显示$
+-T, --show-tabs		将table键显示为^I
+-v, --show-noprinting 	使用^和M- 引用，除了LFD和TAB之外
+```
+
+### 参数
+文件列表：指定要连接的文件列表。
+
+### 实例
+1> 查看test.txt文件
+```bash
+cat test.txt
+```
+
+2> 查看test.txt文件，并显示行号
+```bahs
+cat -n test.txt
+```

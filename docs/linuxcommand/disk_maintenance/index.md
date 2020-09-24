@@ -1,3 +1,4 @@
+# [Linux 命令大全](/linuxcommand/index)
 # [磁盘维护](/linuxcommand/disk_maintenance/index)
 
 <style type="text/css">

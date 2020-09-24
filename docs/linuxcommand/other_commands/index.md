@@ -1,3 +1,4 @@
+# [Linux 命令](/linuxcommand/index)
 # [其他命令](/linuxcommand/other_commands/index)
 
 <style type="text/css">

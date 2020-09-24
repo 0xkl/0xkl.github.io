@@ -1,3 +1,4 @@
+# [Linux 命令大全](/linuxcommand/index)
 # [系统管理](/linuxcommand/system_management/index)
 
 <style type="text/css">

@@ -1,6 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 - [家](/)
+- [Midjourney](/Midjourney/index)
 - [Hack the box](/HTB/index)
 - [教程](/tutorials/index)
 - [Linux命令](/linuxcommand/index)
